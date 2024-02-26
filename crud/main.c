@@ -97,5 +97,6 @@ int main()
     print_student(student);
 
     delete_book(&book1);
+    delete_student(&student);
     return 0;
 }
