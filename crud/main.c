@@ -42,8 +42,6 @@ Student *create_student(const char *name, unsigned int age, const Book *favorite
     return student;
 }
 
-
-
 unsigned int delete_book(Book **book) {     
     /*  Recebe como parâmetro um ponteiro para ponteiro de book
         Ex: Está recebendo o endereço de book1 que é um ponteiro de book
