@@ -104,4 +104,3 @@ void FVset(const FloatVector *vec, int index, float val) {
 
     vec->data[index] = val;
 }
-
